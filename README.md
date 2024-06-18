@@ -2,7 +2,7 @@
 
 Atualmente estou cursando Ciências da computação, estou no primeiro semestre e tenho objetivo de atuar na área do Back-end.
 Por mais que eu não tenha ainda o conhecimento em nenhuma linguagem de programação, tenho em mente seguir o caminho do Java.
-Consegui uma bolsa no Bootcamp do santander na plataforma da Dio, com o tema abordado Backend com Java. Que por sinal me deixou muito feliz e me animou ainda mais querer aprender está linguagem.
+Consegui uma bolsa no Bootcamp do santander na plataforma da Dio, com o tema abordado Backend com Java. Que por sinal me deixou muito feliz e me animou ainda mais querer aprender esta linguagem.
 
 # Conecte-se comigo
 

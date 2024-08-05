@@ -1,7 +1,6 @@
 # Murilo Valentim Ivano
 
-Atualmente estou cursando Ciências da computação, estou no primeiro semestre e tenho objetivo de atuar na área do Back-end. Consegui uma bolsa no Bootcamp do santander na plataforma da Dio, com o tema abordado Backend com Java. Que por sinal me deixou muito feliz e me animou ainda mais querer aprender esta linguagem.
-Estou sempre procurando expandir meus conhecimentos para que assim eu consiga me tornar um Desenvolvedor Java.
+Atualmente estou cursando Ciências da computação, estou no segundo semestre e tenho objetivo de atuar na área do Back-end. Estou sempre procurando expandir meus conhecimentos para que assim eu consiga me tornar um Desenvolvedor Java.
 
 # Conecte-se comigo
 

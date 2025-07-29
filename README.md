@@ -1,6 +1,6 @@
 # Murilo Valentim Ivano
 
-Atualmente estou cursando Ciências da computação, estou no segundo semestre e tenho objetivo de atuar na área do Back-end. Estou sempre procurando expandir meus conhecimentos para que assim eu consiga me tornar um Desenvolvedor Java.
+Atualmente estou cursando Ciências da computação, estou no quarto semestre e tenho objetivo de atuar na área do desenvolvimento.
 
 # Conecte-se comigo
 

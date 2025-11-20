@@ -1,6 +1,6 @@
 # Murilo Valentim Ivano
 
-Atualmente estou cursando Ciências da computação, estou no quarto semestre e tenho objetivo de atuar na área do desenvolvimento.
+Atualmente estou cursando Ciências da computação
 
 # Conecte-se comigo
 
@@ -9,7 +9,8 @@ Atualmente estou cursando Ciências da computação, estou no quarto semestre e 
 
 ### Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+/*
+<!-- ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
- ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+ ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) -->
 
